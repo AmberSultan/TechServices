@@ -1,0 +1,17 @@
+@media screen and (max-width: 430px) {
+
+    .right{
+        margin-left: 60px;
+        margin-top: 8px;
+    }
+    
+  }
+/* 
+@media screen and (max-width: 425px) {
+
+    .right{
+        margin-left: 60px;
+        margin-top: 20px;
+    }
+    
+  } */

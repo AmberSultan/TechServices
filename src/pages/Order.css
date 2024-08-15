@@ -1,0 +1,14 @@
+   .newcard{
+    width: 350px;
+   }
+   .result{
+      padding-top: 12px;
+   }
+   .deleteBtn{
+      position: fixed;
+      bottom: 200px;
+      right: 250px;
+   }
+   /* .yourOrder{
+      width: 20%;
+   } */

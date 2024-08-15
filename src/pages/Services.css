@@ -1,0 +1,29 @@
+.form{
+   background-color: rgb(255, 255, 255);
+}
+.addService{
+    font-size: 13px
+}
+.save{
+    font-size: 13px;  
+}
+.custom-file-upload .btn {
+    display: inline-flex;
+    align-items: center;
+    cursor: pointer;
+    
+  }
+.fileBtn{
+    border: 1px solid black;
+    font-size: 13px; 
+}
+.fileBtn:hover{
+    border: 1px solid black;
+    font-size: 13px; 
+}
+.chooseFile{
+    font-size: 12px;
+}
+/* .imgNew{
+    border-radius: 50%;
+} */
